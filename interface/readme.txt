@@ -1,0 +1,1 @@
+Interfaces are models of a database, model as in model of tables, instances of the tables in the database.

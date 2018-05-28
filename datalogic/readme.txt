@@ -1,0 +1,1 @@
+This folder, contains the connection string to the database using Sequelize.

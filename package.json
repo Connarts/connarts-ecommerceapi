@@ -1,0 +1,21 @@
+{
+  "name": "mapnigeriaapi",
+  "version": "1.0.0",
+  "description": "An API that uses data collected by consumers, to provide location data and deeper information into enviroments and locations within Nigeria",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "API",
+    "Javascript",
+    "MapNigeria"
+  ],
+  "author": "Connarts NG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.37.9"
+  }
+}

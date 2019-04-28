@@ -16,6 +16,6 @@
   "dependencies": {
     "express": "^4.16.3",
     "mysql": "^2.15.0",
-    "sequelize": "^4.37.9"
+    "sequelize": ">=5.3.0"
   }
 }
